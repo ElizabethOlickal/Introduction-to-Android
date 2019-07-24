@@ -1,4 +1,2 @@
-# hello-world
+# Introduction to Android
 AndroidProjects
-Hello I am Elizabeth
-How are you
